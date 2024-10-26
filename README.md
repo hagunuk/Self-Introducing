@@ -17,7 +17,6 @@
 <li>음악<br>
 저는 산책할때 꼭 음악을 듣는데 안들으면 심심합니다<br>
 그중에서도 <a href="https://www.youtube.com/watch?v=0fN71Wtgoa8">60'Cardin</a>(클릭)과 <a href="https://www.youtube.com/watch?v=ysSxxIqKNN0">New Divide</a>(클릭)를 좋아합니다!<br><br>
-
 <hr>
 <br><h1>싫어하는것</h1>
 <ul></ul>
