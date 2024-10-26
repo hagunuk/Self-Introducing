@@ -1,6 +1,3 @@
-<html lang="ko"
-<head>
-    
 </head>
 <body>
 <h1>기본정보</h1>
